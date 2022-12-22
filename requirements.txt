@@ -1,5 +1,5 @@
 telethon
-cryptg
+cryptography
 pillow
 aiohttp
 hachoir
